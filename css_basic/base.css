@@ -49,6 +49,7 @@ table {
 body {
 	font-family: 'Josefin Sans', serif;
 	color: rgba(0, 0, 0, 0.8);
+	background-color:antiquewhite;
 }
 h1, h2, h3, h4, h5, h6, header {
 	font-family: 'Yeseva One', sans-serif;
@@ -154,14 +155,17 @@ p {
 h1 {
 	font-size: 36px;
 	margin: 40px 0 20px;
+	color:red;
 }
 h2 {
 	font-size: 32px;
 	margin: 30px 0 15px;
+	color:green;
 }
 h3 {
 	font-size: 28px;
 	margin: 25px 0 10px;
+	color:blue;
 }
 h4 {
 	font-size: 20px;
